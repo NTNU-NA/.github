@@ -27,5 +27,6 @@ NTNU_ITC_NetAngel 是由「國立臺灣師範大學資訊中心_網路組」學�
 
 本頁面已被瀏覽次數：
 
-![訪問次數](https://visitor-badge.glitch.me/badge?page_id=NTNU-NA.NTNU-NA)
+![Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/NTNU-NA/NTNU-NA)
+
 
