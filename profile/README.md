@@ -11,7 +11,7 @@ NTNU_ITC_NetAngel 是由「國立臺灣師範大學資訊中心_網路組」學�
 - 協助資訊安全業務
 - ...
   
-我們的目標是為師大提供安全、可靠的網路環境，並透過交棒傳承的方式培養下一代　NetAngel。
+我們的目標是為師大提供安全、可靠的網路環境，並透過交棒傳承的方式培養下一代 NetAngel。
 
 ## 團隊成員
 
@@ -23,10 +23,6 @@ NTNU_ITC_NetAngel 是由「國立臺灣師範大學資訊中心_網路組」學�
 | <img src="https://github.com/kaiwei1229.png" alt="呂凱崴" width="100" height="100">  | 呂凱崴 | 資工 116 |
 
 
-## 頁面瀏覽次數
 
-本頁面已被瀏覽次數：
-
-![Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/NTNU-NA/NTNU-NA)
 
 
