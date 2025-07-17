@@ -15,7 +15,7 @@ NTNU_ITC_NetAngel 是由「國立臺灣師範大學資訊中心_網路組」學�
 
 ## 團隊成員
 
-我們的團隊由以下成員組成：
+我們的團隊由以下成員組成（按加入時間排序）：
 
 | 成員 | 姓名 | 系級 |
 | --- | --- | --- |
@@ -26,6 +26,6 @@ NTNU_ITC_NetAngel 是由「國立臺灣師範大學資訊中心_網路組」學�
 | <div align="center">🙂</div> | 林宇恩 | 資工 碩 |
 | <div align="center">🙂</div> | 陳昱誠 | 資工 碩 |
 | <a href="https://github.com/cyucccx" target="_blank"><img src="https://github.com/cyucccx.png" alt="陳育渝" width="100" height="100"></a> | 陳育渝 | 資工 116 |
-| <a href="https://github.com/SherlockHYC" target="_blank"><img src="https://github.com/SherlockHYC.png" alt="侯宇宸" width="100" height="100"></a> | 侯宇宸 | 資工 116 |
 | <a href="https://github.com/monjo123" target="_blank"><img src="https://github.com/monjo123.png" alt="温博舟" width="100" height="100"></a> | 温博舟 | 資工 117 |
+| <a href="https://github.com/SherlockHYC" target="_blank"><img src="https://github.com/SherlockHYC.png" alt="侯宇宸" width="100" height="100"></a> | 侯宇宸 | 資工 116 |
 
